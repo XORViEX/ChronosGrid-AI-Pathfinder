@@ -19,7 +19,7 @@
 * **Core Libraries:** `heapq`, `collections`, `random`
   
 ## 📊 Documentation & Slides
-You can view the project presentation slides [here](docs/presentation.pdf) to learn more about the CSP heuristics and search algorithm design.
+You can view the project presentation slides [here](https://canva.link/2lnq0i0scvyqr77) to learn more about the CSP heuristics and search algorithm design.
 
 ## 🚀 Getting Started
 
