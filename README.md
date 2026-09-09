@@ -17,6 +17,9 @@
 * **Language:** Python 3.x
 * **GUI Framework:** Tkinter
 * **Core Libraries:** `heapq`, `collections`, `random`
+  
+## 📊 Documentation & Slides
+You can view the project presentation slides [here](docs/presentation.pdf) to learn more about the CSP heuristics and search algorithm design.
 
 ## 🚀 Getting Started
 
